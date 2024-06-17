@@ -144,10 +144,11 @@ After cleaning the data, Tableau was used to create interactive and insightful v
 5. **Hospital and Doctor Performance:**
    Certain hospitals and doctors consistently appear as top performers in terms of patient numbers and medical condition management.
 
-These insights provide a comprehensive understanding of the healthcare landscape, helping stakeholders make informed decisions to improve healthcare services and patient outcomes.
-
+ 🏥📊 See & interacte with the trends.👉[Check it out!](https://bit.ly/3KJilyh)  
 ---
 
 ### Conclusion
 
-This project demonstrates the power of data cleaning and visualization in deriving actionable insights from healthcare data. The combination of Python and Tableau allowed for efficient data processing and the creation of interactive dashboards that present complex data in an easily understandable format. This portfolio piece showcases the capability to handle large datasets, clean and preprocess data, and generate meaningful visualizations to drive decision-making in the healthcare industry.
+In this project I demonstrated the power of data cleaning and visualization in deriving actionable insights from healthcare data. The combination of Python and Tableau allowed for efficient data processing and the creation of interactive dashboards that presented complex data in an easily understandable format. This portfolio piece showcases the capability to handle large datasets, clean and preprocess data, and generate meaningful visualizations to drive decision-making in the healthcare industry.
+### Futhermore
+Still to come is a predictive model on the dataset
