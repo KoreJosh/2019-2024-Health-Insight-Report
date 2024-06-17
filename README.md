@@ -1,6 +1,6 @@
 # Health-Insight-from-2019--2024
 
-![Health Insights Dashboard](images/dashboard.png)
+![Health Insights Dashboard](https://github.com/KoreJosh/Health-Insight-from-2019--2024/blob/main/Screenshot%20(1).png)
 
 ---
 
