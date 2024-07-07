@@ -1,4 +1,4 @@
-# Health-Insight-from-2019--2024
+# 2019-2024 Health Insight
 
 ![](https://github.com/KoreJosh/2019-2024-Health-Insight-Report/blob/main/health%20gam.png)
 
@@ -61,6 +61,7 @@ The data cleaning process was performed in a Jupyter Notebook, using the Pandas 
 ---
 
 # Visualization with Tableau
+
 
 After cleaning the data, Tableau was used to create interactive and insightful visualizations. The dashboards were designed to provide a holistic view of the healthcare data across various dimensions.
 
