@@ -1,16 +1,16 @@
 # Health-Insight-from-2019--2024
 
-![Health Insights Dashboard](https://github.com/KoreJosh/Health-Insight-from-2019--2024/blob/main/Screenshot%20(1).png)
+![](https://github.com/KoreJosh/2019-2024-Health-Insight-Report/blob/main/health%20gam.png)
 
 ---
 
-#### Introduction
+# Introduction
 
 This project involves a comprehensive analysis of healthcare data from 2019 to 2024. The analysis was carried out in two phases: data cleaning and visualization. The data cleaning phase was executed using Python, while the visualization was created using Tableau. The primary goal of this project is to gain insights into various health-related metrics such as the number of health cases, hospital and doctor counts, patient demographics, medical conditions, and more.
 
 ---
 
-#### Data Cleaning with Python
+# Data Cleaning with Python
 
 The data cleaning process was performed in a Jupyter Notebook, using the Pandas library for data manipulation and cleaning. Here are the detailed steps:
 
@@ -60,7 +60,7 @@ The data cleaning process was performed in a Jupyter Notebook, using the Pandas 
 
 ---
 
-#### Visualization with Tableau
+# Visualization with Tableau
 
 After cleaning the data, Tableau was used to create interactive and insightful visualizations. The dashboards were designed to provide a holistic view of the healthcare data across various dimensions.
 
