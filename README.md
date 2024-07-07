@@ -61,7 +61,7 @@ The data cleaning process was performed in a Jupyter Notebook, using the Pandas 
 ---
 
 # Visualization with Tableau
-
+![](https://github.com/KoreJosh/2019-2024-Health-Insight-Report/blob/main/Dashboard%204.png)
 
 After cleaning the data, Tableau was used to create interactive and insightful visualizations. The dashboards were designed to provide a holistic view of the healthcare data across various dimensions.
 
@@ -70,6 +70,7 @@ After cleaning the data, Tableau was used to create interactive and insightful v
 - **Health Cases, Hospitals, Doctors, and Insurance Providers:**
   The total counts of health cases, hospitals, doctors, and insurance providers are displayed at the top.
   - Health Cases: 55,500
+  - Number of health cases: 6
   - Number of Hospitals: 39,876
   - Number of Doctors: 40,341
   - Number of Insurance Providers: 5
@@ -148,8 +149,8 @@ After cleaning the data, Tableau was used to create interactive and insightful v
  🏥📊 See & interacte with the trends.👉[Check it out!](https://bit.ly/3KJilyh)  
 ---
 
-### Conclusion
+# Conclusion
 
 In this project I demonstrated the power of data cleaning and visualization in deriving actionable insights from healthcare data. The combination of Python and Tableau allowed for efficient data processing and the creation of interactive dashboards that presented complex data in an easily understandable format. This portfolio piece showcases the capability to handle large datasets, clean and preprocess data, and generate meaningful visualizations to drive decision-making in the healthcare industry.
 ### Futhermore
-Still to come is a predictive model on the dataset
+_Still to come is a predictive model on the dataset_
